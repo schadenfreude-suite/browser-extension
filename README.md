@@ -1,2 +1,2 @@
-# browser-extension
-Browser extension for querying requests to the proxy server.
+# firefox-extension
+Firefox browser extension for querying requests to the proxy server.
